@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/c/programming_tutorials/mlops/src/mlruns/863271582436005660
+creation_time: 1739426826941
+experiment_id: '863271582436005660'
+last_update_time: 1739426826941
+lifecycle_stage: active
+name: Loan_Approval_Experiment
